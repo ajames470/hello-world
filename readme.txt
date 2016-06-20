@@ -1,2 +1,3 @@
 Hello, this is a readme.
-I am creating it for the git-it challenge
+I am creating it for the git-it challenge.
+I added another line.
